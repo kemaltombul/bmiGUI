@@ -1,5 +1,5 @@
 import tkinter
-import time
+
 window = tkinter.Tk()
 window.title("whats my BMI")
 window.geometry("300x300")
